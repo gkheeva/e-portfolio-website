@@ -448,7 +448,7 @@ header {
 
 .jumbotron {
 	margin:0;
-  	background-color:#2F4254;
+  	background-image: url("../image/me.jpg");
 }
 
 .jumbotron img {
