@@ -598,6 +598,10 @@ header {
     position: relative;
 }
 
+.skillsload {
+	display:none;
+}
+
 .easyPieChart canvas {
     position: absolute;
     top: 0;
